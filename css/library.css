@@ -34,6 +34,52 @@
     flex-basis: auto;
 } 
 
+/* FLEX TOOLS */
+
+/* justify */
+
+.j-start {
+    justify-content: flex-start;
+}
+
+.j-end {
+    justify-content: flex-end;
+}
+
+.j-center {
+    justify-content: center;
+}
+
+.j-between {
+    justify-content: space-between;
+}
+
+.j-around {
+    justify-content: space-around;
+}
+
+/* align-items */
+
+.ai-start {
+    align-items: flex-start;
+}
+
+.ai-end {
+    align-items: flex-end;
+}
+
+.ai-center {
+    align-items: center;
+}
+
+.ai-between {
+    align-items: space-between;
+}
+
+.ai-around {
+    align-items: space-around;
+}
+
 
 /* COL - GROW */
 
