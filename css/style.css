@@ -10,3 +10,15 @@
     border: 1px solid black;
     height: 200px;
 }
+
+
+.padd {
+    padding: 10px;
+}
+
+.content-col {
+    height: 100%;
+    width: 100%;
+    padding: 2px;
+    background-color: yellow;
+}
